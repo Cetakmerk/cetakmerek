@@ -22,7 +22,7 @@ button:hover{
 }
 h1{
     width: 80%;
-    line-height:1.2em;
+    line-height:1.8rem;
     margin: 0 auto;
     font-size:1.4rem;
 }
@@ -333,7 +333,7 @@ a:hover{
 }
 @media(max-width:1050px){
   body{
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 
